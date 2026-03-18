@@ -419,9 +419,8 @@ export default function Home() {
             </h1>
 
             <p className="hero-desc">
-              Desenvolvedor full stack com experiência em <em>web e mobile</em>.
-              Do frontend em React até APIs REST com Node e Django — código{" "}
-              preciso, produto que funciona.
+              Desenvolvedor full stack com foco em <em>web e mobile</em>.
+              APIs REST com Node e Django | DRF
             </p>
 
             <div className="links">
