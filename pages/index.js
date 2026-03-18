@@ -419,9 +419,9 @@ export default function Home() {
             </h1>
 
             <p className="hero-desc">
-              Desenvolvedor apaixonado por criar <em>experiências digitais</em>{" "}
-              que unem forma e função. Transformando ideias em código com
-              precisão e criatividade.
+              Desenvolvedor full stack com experiência em <em>web e mobile</em>.
+              Do frontend em React até APIs REST com Node e Django — código{" "}
+              preciso, produto que funciona.
             </p>
 
             <div className="links">
@@ -466,19 +466,19 @@ export default function Home() {
             <div className="skill-grid">
               <div className="skill-cell">
                 <strong>Frontend</strong>
-                React · Next.js
+                React · React Native · TypeScript
               </div>
               <div className="skill-cell">
                 <strong>Backend</strong>
-                Node.js · APIs
+                Node.js · Python · Django · DRF
               </div>
               <div className="skill-cell">
                 <strong>Banco de Dados</strong>
-                SQL · NoSQL
+                MySQL
               </div>
               <div className="skill-cell">
                 <strong>DevOps</strong>
-                Git · Vercel
+                Docker · Bitbucket
               </div>
             </div>
           </div>
